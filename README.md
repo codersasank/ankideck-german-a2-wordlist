@@ -8,6 +8,7 @@ This deck is an Anki import of Goethe Institute's Goethe Zertifikat A2 Wortliste
 It includes words (nouns, verbs, adjectives, adverbs, pronouns etc.), and the sentences (to illustrate usage) corresponding to each word, which helps us understand how the meaning of a word might change with context.
 If a word contains multiple example sentences, then each sentence has been used to form one note, resulting in repetition of the same word. This was done to keep the layout simple.
 The deck starts with the letter A in the wordlist (Page 8) and includes every word till the end. The words are in the same order as they are in the PDF file. The deck contains reversed cards as well.
+There are a total of 1880 notes, and 3760 cards (including reversed cards).
 
 The translations to English have been generated using DeepL. DeepL claims no copyright for the translations. The audio files have been generated using Google Cloud Text-to-Speech API.
 I used the voice name "de-DE-Wavenet-B" for generating audio for the words. I used the voice name "de-DE-Neural2-F" for generating audio for the sentences.
