@@ -1,0 +1,19 @@
+{{FrontSide}}
+
+{{#de_verbformen}}
+<br>
+<small>{{de_verbformen}}</small>
+{{/de_verbformen}}
+
+{{#de_hinweis}}
+<br><br>
+<small>{{de_hinweis}}</small>
+{{/de_hinweis}}
+
+<hr id=answer>
+
+{{en_word}}
+{{#en_sentence}}
+<br><br>
+<i>{{en_sentence}}</i>
+{{/en_sentence}}
