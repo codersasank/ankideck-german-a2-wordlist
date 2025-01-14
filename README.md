@@ -14,7 +14,7 @@ I used the voice name "de-DE-Wavenet-B" for generating audio for the words. I us
 
 ## Contents
 1. APKG file (available in the Releases section of this repository)
-2. Layout files of the Anki cards (back_template.txt , front_template.txt)
+2. Layout files of the Anki cards (back_template.txt , front_template.txt, styling.txt)
 3. CSV file (tab delimited) used to create the deck
 4. XLSX file which contains the wordlist and is used to run Python scripts
 5. ZIP file containing all the Google Cloud generated audio files (Available in the Releases section of this repository. It is not needed to actually use the repository.)
