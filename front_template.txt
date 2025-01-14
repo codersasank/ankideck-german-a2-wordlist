@@ -1,0 +1,10 @@
+{{#de_article}}{{de_article}}{{/de_article}}
+{{de_word}}
+{{#de_plural}}{{de_plural}}{{/de_plural}}
+{{audio_de_word}}
+
+{{#de_sentence}}
+<br>
+<i>{{de_sentence}}</i>
+{{/de_sentence}}
+{{audio_de_sentence}}
